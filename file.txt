@@ -1,3 +1,9 @@
 hello 
 connections
 lets learn git commands
+
+gitint 
+git add <filename>
+git commit -m 
+git log 
+git status
